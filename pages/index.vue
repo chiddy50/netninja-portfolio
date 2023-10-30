@@ -10,7 +10,7 @@
         <div class="md:w-3/4">
             <h2 class="text-3xl font-bold mt-8">My Story</h2>
             <p class="text-md py-2">
-                I am a Software Engineer living just outside of one of my favorite places in the world, Cleveland, Ohio. I am a
+                I am a Software Engineer living just outside of one of my favorite places in the world, Abuja, FCT. I am a
                 self-taught programmer who firmly believes that you can accomplish anything in this life if you put your mind to
                 it,
                 roll up your sleeves and are willing to put in the work.
